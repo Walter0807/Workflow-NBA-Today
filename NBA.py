@@ -51,11 +51,11 @@ def getMatch(wf):
             Pct22 = str(round(float(LineScore[Team2][24]) * 1000) / 10.0) + '%'
             Pct23 = str(round(float(LineScore[Team2][23]) * 1000) / 10.0) + '%'
             T1 = Pct11 + '+' + Pct12 + '+' + Pct13 + ' ' + str(LineScore[Team1][26]) + 'Reb ' + \
-                 str(LineScore[Team1][25]) + 'Ast ' + str(LineScore[Team1][25]) + 'To'
+                 str(LineScore[Team1][25]) + 'Ast ' + str(LineScore[Team1][27]) + 'To'
             T2 = Pct21 + '+' + Pct22 + '+' + Pct23 + ' ' + str(LineScore[Team2][26]) + 'Reb ' + \
-                 str(LineScore[Team2][25]) + 'Ast ' + str(LineScore[Team2][25]) + 'To'
+                 str(LineScore[Team2][25]) + 'Ast ' + str(LineScore[Team2][27]) + 'To'
             detail = T2 + ' | ' + T1
-            wf.add_item(title, detail, icon = Iconpath, arg = GameHeader[idx][2], uid = GameHeader[idx][2], valid=True)
+            wf.add_item(title, detail, icon = Iconpath, arg = GameHeader[idx][2], valid=True)
         else:
             title = LineScore[Team2][4] + '(' + LineScore[Team2][6] + ') VS ' + LineScore[Team1][4] + '  (' + LineScore[Team1][
                         6] + ')' + '  ' + State + Remain
