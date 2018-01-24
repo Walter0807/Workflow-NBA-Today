@@ -5,19 +5,19 @@ A Alfred workflow for quickly checking NBA schedules, game results and standings
 NBA新赛季开始了。
 作为高频需求，希望能够将查看赛程赛果结合到效率神器Alfred的Workflow中。
 ## 功能
-![](nbaalfredworkflow1.jpg)
+![](http://39.107.114.234/wp-content/uploads/2018/01/nbaalfredworkflow1.jpg)
 主菜单。Watch Games直达企鹅TV英文原声和腾讯体育直播页面。
-![](v2-82475c23792d6d62a35ad899da47258c_r.jpg)
+![](http://39.107.114.234/wp-content/uploads/2018/01/v2-82475c23792d6d62a35ad899da47258c_r.jpg)
 加载当天赛程赛果
-![](v2-ad0353d57948d86ad8bdc0bb0e338d57_r.jpg)
+![](http://39.107.114.234/wp-content/uploads/2018/01/v2-ad0353d57948d86ad8bdc0bb0e338d57_r.jpg)
 加载当天赛程赛果
-![](v2-24b875d53a21c469242332d7e4215627_r.jpg)
+![](http://39.107.114.234/wp-content/uploads/2018/01/v2-24b875d53a21c469242332d7e4215627_r.jpg)
 往前滑动一天。比赛中/结束后可点进数据统计页面。
-![](v2-ee7f9b6de984bd2409df99af55e6d0df_hd.jpg)
+![](http://39.107.114.234/wp-content/uploads/2018/01/v2-ee7f9b6de984bd2409df99af55e6d0df_hd.jpg)
 往后滑动一天。比赛未开始，显示比赛时间。
-![](v2-75f1a58fbae09fcd20cf7eb1f40ecb9a_r.jpg)
+![](http://39.107.114.234/wp-content/uploads/2018/01/v2-75f1a58fbae09fcd20cf7eb1f40ecb9a_r.jpg)
 东部排名
-![](v2-6225bd3640778fcfd52a277c19e16845_r.jpg)
+![](http://39.107.114.234/wp-content/uploads/2018/01/v2-6225bd3640778fcfd52a277c19e16845_r.jpg)
 西部排名
 
 ## 实现
