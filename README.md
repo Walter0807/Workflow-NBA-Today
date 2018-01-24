@@ -13,7 +13,7 @@ NBA新赛季开始了。
 加载当天赛程赛果
 ![](http://39.107.114.234/wp-content/uploads/2018/01/v2-24b875d53a21c469242332d7e4215627_r.jpg)
 往前滑动一天。比赛中/结束后可点进数据统计页面。
-![](http://39.107.114.234/wp-content/uploads/2018/01/v2-ee7f9b6de984bd2409df99af55e6d0df_hd.jpg)
+![](https://pic4.zhimg.com/v2-ee7f9b6de984bd2409df99af55e6d0df_r.jpg)
 往后滑动一天。比赛未开始，显示比赛时间。
 ![](http://39.107.114.234/wp-content/uploads/2018/01/v2-75f1a58fbae09fcd20cf7eb1f40ecb9a_r.jpg)
 东部排名
