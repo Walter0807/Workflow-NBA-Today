@@ -1,6 +1,6 @@
 # Workflow-NBA-Today
 
-A Alfred workflow for quickly checking NBA schedules, game results and standings.
+A Alfred workflow for quickly checking NBA schedules, game results and standings.<br><br>
 
 NBA新赛季开始了。
 作为高频需求，希望能够将查看赛程赛果结合到效率神器Alfred的Workflow中。
